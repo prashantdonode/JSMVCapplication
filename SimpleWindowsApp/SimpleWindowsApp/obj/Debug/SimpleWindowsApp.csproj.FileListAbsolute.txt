@@ -1,0 +1,2 @@
+c:\users\prashant\documents\visual studio 2015\Projects\SimpleWindowsApp\SimpleWindowsApp\bin\Debug\SimpleWindowsApp.exe.config
+D:\demo respos\SimpleWindowsApp\SimpleWindowsApp\bin\Debug\SimpleWindowsApp.exe.config
